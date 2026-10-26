@@ -1,0 +1,5 @@
+PS C:\Users\everr\OneDrive\Documents\School\Fall 2026\ITSC-1342-20002\itsc-1342-assignemnt-2\tests>  & 'C:\Users\everr\AppData\Local\Programs\Python\Python313\python.exe' 'c:\Users\everr\.vscode\extensions\ms-python.debugpy-2026.6.0-win32-arm64\bundled\libs\debugpy\launcher' '62269' '--' 'C:\Users\everr\OneDrive\Documents\School\Fall 2026\ITSC-1342-20002\itsc-1342-assignemnt-2\tests\test_solution-1.py' 
+ALL UNIT TESTS PASSED - ASSIGNMENT 2
+PS C:\Users\everr\OneDrive\Documents\School\Fall 2026\ITSC-1342-20002\itsc-1342-assignemnt-2\tests> 
+
+
